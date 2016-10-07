@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tinyxml2::MemPool" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAgAAEAAAAAAAAAAgAhAAAI=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::MemPoolT&lt;ITEM_SIZE&gt;" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAQAAAAhAAAAAgAAFAAABAAYAEgAAhAEAo=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLAttribute">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="tinyxml2::XMLAttribute::__unnamed_enum_02a2_4" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>tinyxml2.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IhQAoAAAACBAABAEAAggAAQAABAAAEAgAAAgQAEQgAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLComment" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAAQACAAAAAAAAAAAgAAAAgAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLConstHandle" Collapsed="true">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEBAAAEAACAAAAEAAIAAAAAiAAAAAAIMgAABABAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLDeclaration" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQCAAAAAAAAAAAAAAAAAAAAAEAAAAIgAAAAgAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLDocument" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAggQYUQSAQAQDgABAgCAAEAAAQhAEkhAAgFRtEBEA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLElement" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAgAAYCACACQAEIQpCIILSRQQQAAAoAEACgQAAAgEA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLHandle" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEBAAAEAACAAAAEAAIAAAAAiAAAAAAIcgAABABAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLNode" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ALAgAAaMAEAACgAAEkAQYQhUgBqAIAAgAIskAAhghAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLPrinter" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGoQAAgAAAAAgUAAAAEBAIAABAEgAAQoQEBAAUsghI=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLText" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAEAAQAAAAEAAAAAAAABAAAAEAAAgAAEAgAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLUnknown" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAggAAAAgAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLUtil" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAkAMAAABAAAABAAKAAAAAgBIABgggAAAAAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLVisitor">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TargetDemoDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCellID" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAgAAQACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CellRange.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCellRange" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAQABCAMRAIAAAgEAYQFQAgAAAAAAAAgACEAQAA=</HashCode>
+      <FileName>CellRange.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGridCell" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAEBUEAAR0AIjIAIMKGSAzoQgAACBACgAACACAA=</HashCode>
+      <FileName>GridCell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGridDefaultCell" Collapsed="true">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABEwBIAAAAAAAhAAAAADAAAwAAAAAAgAAAFIAAAQ=</HashCode>
+      <FileName>GridCell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGridCellBase" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABMAZUEABVkAZrIpAMAGSIwiQgAEWRACgAEAQDEA=</HashCode>
+      <FileName>GridCellBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGridCtrl" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3KPn//x+ed/r/9a//9/fvt7/3/5sPf//8///3nn+Hdc=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGridDropTarget" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAABAAAgAAAQAAAAAABAAAAAADAAAAAAASIAAAEAA=</HashCode>
+      <FileName>GridDropTarget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInPlaceEdit" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAgAgAQAIAARAAIQgAAEAAYAIAAAAAA=</HashCode>
+      <FileName>InPlaceEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCustomMemDC" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIkAAAAAAAgAAAAAAAAEAAAQAACQAABA=</HashCode>
+      <FileName>MemDC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTargetDemoApp" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAA=</HashCode>
+      <FileName>TargetDemo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTargetDemoDlg" Collapsed="true">
+    <Position X="12.75" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="CTargetDemoDlg::targetInform" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TargetDemoDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="CTargetDemoDlg::__unnamed_enum_0007_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TargetDemoDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>OECAgBECAAAgAAAABRAAAgIEABAAAAQACEAAQAAQACA=</HashCode>
+      <FileName>TargetDemoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTitleTip" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAABAAAgMEAAQQACAABAEAEAIgAQAAAAAAAA=</HashCode>
+      <FileName>TitleTip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::DynArray&lt;T, INITIAL_SIZE&gt;" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgBAAAkAABAAIAAAASAAGAAAAAAgAwEAJACAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_GV_ITEM" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkIAAAAIAAAAAAAAARQCAAAAAIAAACAQAAAAgAA=</HashCode>
+      <FileName>GridCellBase.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagNM_GRIDVIEW" Collapsed="true">
+    <Position X="8.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagGV_DISPINFO" Collapsed="true">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagGV_CACHEHINT" Collapsed="true">
+    <Position X="4.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tinyxml2::Entity" Collapsed="true">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAECAAAAAAAAAAAAA=</HashCode>
+      <FileName>tinyxml2.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tinyxml2::LongFitsIntoSizeTMinusOne&lt;&gt;" Collapsed="true">
+    <Position X="16.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tinyxml2.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tinyxml2::LongFitsIntoSizeTMinusOne&lt;false&gt;" Collapsed="true">
+    <Position X="18.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tinyxml2.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="GV_ITEM" Collapsed="true">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridCellBase.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="NM_GRIDVIEW" Collapsed="true">
+    <Position X="8.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GV_DISPINFO" Collapsed="true">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GV_CACHEHINT" Collapsed="true">
+    <Position X="4.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GRID_ROW" Collapsed="true">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GRIDCALLBACK" Collapsed="true">
+    <Position X="16.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PVIRTUALCOMPARE" Collapsed="true">
+    <Position X="18.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
